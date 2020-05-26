@@ -1,4 +1,3 @@
-// https://observablehq.com/d/0822602b5d0a6197@752
 // events
 var events = [  {ymd: "2020-11-03", event: "U.S. elections" }, 
                 {ymd: "2020-07-28", event: "AUSMIN" },
@@ -294,7 +293,7 @@ dateData_complete.then(function(data){
                          "until the U.S. elections"); 
               }
               if(d_to_election<0 & d_to_i>0){
-                ddd.text(today_text + 
+                ddd.text(today_text + ": " +
                         d_to_i + " " + 
                          ((d_to_i == 1) ? "day" : "days") + 
                          " " +
