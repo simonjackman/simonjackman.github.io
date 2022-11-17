@@ -7,15 +7,18 @@ main:
   - name: Home
     url: '#about'
     weight: 1
-  - name: Books
-    url: bookdown/
-    weight: 3  
+  # - name: Books
+  #   url: bookdown/
+  #  weight: 3  
   - name: Publications
     url: '#featured'
     weight: 4  
-  - name: Posts
-    url: '#posts'
-    weight: 20
+  - name: Career
+    url: /career
+    weight: 8
+  # - name: Posts
+  #   url: '#posts'
+  #   weight: 20
   - name: Projects
     url: '#projects'
     weight: 30
