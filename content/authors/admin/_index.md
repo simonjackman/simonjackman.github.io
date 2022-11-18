@@ -33,7 +33,11 @@ social:
 #  link: /#contact
 - display:
     header: true
-  icon: twitter
+- icon: mastodon
+  icon_pack: fab
+  label: Mastodon
+  link: https://aus.social/@simonjackman
+- icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/simonjackman

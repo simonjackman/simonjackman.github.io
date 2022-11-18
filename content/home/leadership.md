@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Leadership Roles
 subtitle:
 
 # Date format for experience
@@ -37,7 +37,7 @@ leadership:
     location: California
     date_start: '2016-04-02'
     date_end: '2022-03-31'
-    description: Leadership of Australia's premier research institution on the United States and of Australia's relationship with the United States.   Annual budgets of $7-10M, responsible to a Board of Directors co-appointed by the University of Sydney and the American Australian Association.
+    description: Leadership of Australia's premier research institution on the United States and of Australia's relationship with the United States.   Annual budget of $7-10M, responsible to a Board of Directors co-appointed by the University of Sydney and the American Australian Association.
 
   - title: Principal Investigator
     company: American National Election Studies
