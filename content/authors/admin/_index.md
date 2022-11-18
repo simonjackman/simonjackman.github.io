@@ -49,6 +49,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/simon-jackman-b702bb13/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCbFbdQNPXYmqJ8UzDK-LWIw/videos
 
 superuser: true
 title: Professor Simon Jackman

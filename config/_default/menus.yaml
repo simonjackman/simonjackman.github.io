@@ -22,8 +22,8 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Experience
-    url: '#leadership'
+  - name: Leadership Roles
+    url: /leadership
     weight: 40  
   - name: Talks
     url: '#talks'
