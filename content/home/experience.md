@@ -29,17 +29,12 @@ experience:
     location: California
     date_start: '2016-04-02'
     date_end: '2022-03-31'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Leadership of Australia's premier research institution on the United States and of Australia's relationship with the United States.
 
   - title: Professor of Political Science and (by courtesy) Statistics
     company: Stanford University
     company_url: 'https://stanford.edu'
-    company_logo: org-x
+    company_logo: stanford
     location: California
     date_start: '1996-07-01'
     date_end: '2016-04-01'
@@ -48,7 +43,7 @@ experience:
   - title: Assistant Professor of Political Science 
     company: University of Chicago
     company_url: 'https://uchicago.edu'
-    company_logo: org-x
+    company_logo: uchicago
     location: California
     date_start: '1996-07-01'
     date_end: '2016-04-01'
