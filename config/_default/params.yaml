@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: 'custom_font'
+  font: 'Avenir'
   font_size: M
 
 plugins_css = ["custom"]
