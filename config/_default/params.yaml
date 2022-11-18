@@ -11,6 +11,8 @@ appearance:
   font: 'custom_font'
   font_size: M
 
+plugins_css = ["custom"]
+
 # SEO
 
 marketing:

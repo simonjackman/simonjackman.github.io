@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Avenir';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Avenir LT STD'), url('fonts/AvenirLTStd-Book.otf');
+}
+
+@font-face {
+  font-family: 'Avenir';
+  font-style: bold;
+  font-weight: 600;
+  src: local('Avenir LT STD'), url('fonts/AvenirLTStd-Medium.otf');
+}
