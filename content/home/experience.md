@@ -45,8 +45,8 @@ experience:
     company_url: 'https://uchicago.edu'
     company_logo: uchicago
     location: California
-    date_start: '1996-07-01'
-    date_end: '2016-04-01'
+    date_start: '1994-07-01'
+    date_end: '1996-05-01'
     description: Teacher, researcher, mentor.
 
 design:

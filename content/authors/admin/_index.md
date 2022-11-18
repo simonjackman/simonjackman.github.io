@@ -51,19 +51,19 @@ superuser: true
 title: Professor Simon Jackman
 ---
 
-I am a political scientist and a data scientist, with three decades of professional experience as a researcher, teacher, mentor, leader and communicator.
+I am a political scientist and data scientist, with three decades of professional experience as a researcher, teacher, mentor, leader and communicator.
 
-The purpose of my research is to better understand and hence advance democracy, through the rigorous analysis of evidence.  
+The purpose of my research is to advance democracy, by making discoveries about democratic processes and vulnerabilities through the rigorous analysis of data.
 
 Questions and problems I work on include: 
 
 - What predicts how people vote?  When and how do illiberal attitudes and predispositions become drivers of vote choice, such as authoritarianism and racial prejudice, and with what consequences?  How much of vote choice is a standing decision based on party loyalty or ideological commitments, or a response to messages from parties and candidates presented during election campaigns?
 
-- assessing and ensuring that elections are fair
+- Are electoral systems fair, or do they make help entrench a particular party or incumbents in office?
 
-- rigorously measuring some of the key concepts in political science, such as democracy, ideology, and racial prejudice; ensuring these measures are "fit for purpose" for subsequent analysis and modelling
+- Rigorously measuring key concepts of democratic theory and practice, such as democracy itself, electoral fairness, ideology and racial prejudice; 
 
-- adapting long-standing data collection mechanisms such as mass surveys to remain valid and reliable as citizens' willingness to participate in surveys declines unevenly across demographic and political groups
+- Adapting long-standing data collection mechanisms such as mass surveys to remain valid and reliable as citizens' willingness to participate in surveys declines unevenly across demographic and political groups
 
 I use Bayesian methods for computation and inference whenever feasible.   I wrote a book on the topic (published in 2009) and have many published applications where a Bayesian approach brought analysis out of the "too hard" basket.
 
@@ -71,8 +71,8 @@ I appear frequently in Australian and international media discussing development
 
 Current projects:
 
-- small-area estimation or "cross-level" inference; 
-- machine-learning methods for classifying and modelling large corpoa of political text;
+- small-area estimation (aka "ecological" or "cross-level" inference); 
+- machine-learning methods for classifying and modelling large corpora of political text;
 - Australian public opinion and policy towards the US, Australia's alliance with the US, policy priorities.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/viaUSSC.pdf" "newtab" >}}CV{{< /staticref >}}.
