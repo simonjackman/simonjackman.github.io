@@ -17,8 +17,10 @@ highlight_name: true
 
 interests:
 - Elections and public opinion
-- Data science
-- Machine learning, NLP, 
+- Data science, computational social science
+- Machine learning, NLP
+- Better policy and outcomes for Australia through data and discovery
+
 last_name: Jackman
 
 organizations:
@@ -51,17 +53,17 @@ title: Professor Simon Jackman
 
 I am a political scientist and a data scientist, with three decades of professional experience as a researcher, teacher, mentor, leader and communicator.
 
-My research and teaching sits at the intersection of the social sciences and statistics.  Questions and problems I work on include
+I work at the intersection of the social sciences and data science.  Questions and problems I work on include
 
 - what predicts how people vote?  Under what conditions do illiberal attitudes and predispositions become drivers of vote choice, such as authoritarianism and racial prejudice?   How much of vote choice is a standing decision based on party loyalty or ideological commitments, or a response to messages from parties and candidates presented during election campaigns?
 
-- assessing and ensure that electoral systems are fair
+- assessing and ensuring that electoral systems are fair
 
 - rigorously measuring some of the key concepts in political science, such as democracy, ideology, and racial prejudice, ensuring these measures are "fit for purpose" in subsequent analysis and modelling
 
 - adapting long-standing measurement tools such as mass surveys to remain valid and reliable as citizens' willingness to participate in surveys declines, and declines unevenly across demographic and political groups
 
-I use Bayesian methods for computation and inference whenever is feasible.   I wrote a book on the topic (published in 2009) and have many published applications where Bayesian approaches have brought problems out of the "too hard" basket.
+I use Bayesian methods for computation and inference whenever is feasible.   I wrote a book on the topic (published in 2009) and have many published applications where a Bayesian approach brought analysis out of the "too hard" basket.
 
 I appear frequently in Australian and international media discussing developments in US politics and their implications for Australia and other US allies.
 
