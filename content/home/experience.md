@@ -22,11 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
   - title: CEO and Professor
     company: United States Studies Centre at the University of Sydney
     company_url: 'https://ussc.edu.au'
     company_logo: ussc
-    location: California
+    location: Sydney, Australia
     date_start: '2016-04-02'
     date_end: '2022-03-31'
     description: Leadership of Australia's premier research institution on the United States and of Australia's relationship with the United States.
@@ -35,7 +36,7 @@ experience:
     company: Stanford University
     company_url: 'https://stanford.edu'
     company_logo: stanford
-    location: California
+    location: Stanford, California, USA
     date_start: '1996-07-01'
     date_end: '2016-04-01'
     description: Teacher, researcher, mentor.
@@ -44,7 +45,7 @@ experience:
     company: University of Chicago
     company_url: 'https://uchicago.edu'
     company_logo: uchicago
-    location: California
+    location: Chicago, Illinois, USA
     date_start: '1994-07-01'
     date_end: '1996-05-01'
     description: Teacher, researcher, mentor.
