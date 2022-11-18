@@ -19,7 +19,6 @@ interests:
 - Elections and public opinion
 - Data science, computational social science
 - Machine learning, NLP
-- Better policy and outcomes for Australia through data and discovery
 
 last_name: Jackman
 
