@@ -27,7 +27,7 @@ experience:
     company: Australian Election Survey
     company_url: 'https://aes.anu.edu.au'
     company_logo: AES
-    date_start: '2021-06'
+    date_start: '2021-07-01'
     date_end: 
     description: One of four PIs leading the design, implementation and curation of the leading study of political attitudes and behaviour in Australia/
 
