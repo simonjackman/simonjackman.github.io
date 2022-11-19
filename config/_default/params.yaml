@@ -11,8 +11,6 @@ appearance:
   font: 'Avenir'
   font_size: M
 
-plugins_css = ["custom"]
-
 # SEO
 
 marketing:
