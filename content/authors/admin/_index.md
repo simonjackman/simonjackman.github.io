@@ -61,15 +61,15 @@ I am a political scientist and data scientist, with three decades of professiona
 
 The purpose of my research is to advance democracy, by making discoveries about democratic processes and vulnerabilities through the rigorous analysis of data.
 
-Questions and problems I work on include: 
+Questions I work on include: 
 
-- What predicts how people vote?  When and how do illiberal attitudes and predispositions become drivers of vote choice, such as authoritarianism and racial prejudice, and with what consequences?  How much of vote choice is a standing decision based on party loyalty or ideological commitments, or a response to messages from parties and candidates presented during election campaigns?
+- What predicts how people vote?  When and how do illiberal attitudes and predispositions become drivers of vote choice, such as authoritarianism and racial prejudice, and with what consequences?  Is vote choice is a standing decision based on party loyalty or ideological commitments, or a response to messages from parties and candidates presented during election campaigns?
 
 - Are electoral systems fair, or do they make help entrench a particular party or incumbents in office?
 
-- Rigorously measuring key concepts of democratic theory and practice, such as democracy itself, electoral fairness, ideology and racial prejudice; 
+- How to rigorously measuring key concepts of democratic theory and practice, such as democracy itself, electoral fairness, ideology and racial prejudice? 
 
-- Adapting long-standing data collection mechanisms such as mass surveys to remain valid and reliable as citizens' willingness to participate in surveys declines unevenly across demographic and political groups
+- How can long-standing data collection mechanisms such as mass surveys remain valid and reliable as citizens' willingness to participate in surveys declines unevenly across demographic and political groups?
 
 I use Bayesian methods for computation and inference whenever feasible.   I wrote a book on the topic (published in 2009) and have many published applications where a Bayesian approach brought analysis out of the "too hard" basket.
 
