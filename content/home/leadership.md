@@ -26,7 +26,7 @@ experience:
   - title: Principal Investigator
     company: Australian Election Survey
     company_url: 'https://aes.anu.edu.au'
-    company_logo: AES
+    ##company_logo: AES
     date_start: '2021-07-01'
     date_end: 
     description: One of four PIs leading the design, implementation and curation of the leading study of political attitudes and behaviour in Australia/
@@ -34,7 +34,7 @@ experience:
   - title: CEO and Professor
     company: United States Studies Centre at the University of Sydney
     company_url: 'https://ussc.edu.au'
-    company_logo: ussc
+    ##company_logo: ussc
     location: California
     date_start: '2016-04-02'
     date_end: '2022-03-31'
@@ -43,7 +43,7 @@ experience:
   - title: Principal Investigator
     company: American National Election Studies
     company_url: 'https://electionstudies.org'
-    company_logo: ANES
+    ##company_logo: ANES
     date_start: '2009-07-01'
     date_end: '2016-03-31'
     description: One of four PIs leading the design, implementation and curation of the world's longest running and most authoritative study of mass political attitudes and behavior.  Funded by the National Science Foundation at approx USD $9M per 4 yr election cycle.
@@ -51,7 +51,7 @@ experience:
   - title: President 
     company: Society for Political Methodology
     company_url: 'https://polmeth.org'
-    company_logo: polmeth
+    ##company_logo: polmeth
     location: California
     date_start: '2003-09-01'
     date_end: '2005-08-31'
