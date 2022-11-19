@@ -44,8 +44,8 @@ experience:
     company: American National Election Studies
     company_url: 'https://electionstudies.org'
     company_logo: ANES
-    date_start: '2009'
-    date_end: '2016'
+    date_start: '2009-07-01'
+    date_end: '2016-03-31'
     description: One of four PIs leading the design, implementation and curation of the world's longest running and most authoritative study of mass political attitudes and behavior.  Funded by the National Science Foundation at approx USD $9M per 4 yr election cycle.
 
   - title: President 
@@ -53,8 +53,8 @@ experience:
     company_url: 'https://polmeth.org'
     company_logo: polmeth
     location: California
-    date_start: '2003'
-    date_end: '2005'
+    date_start: '2003-09-01'
+    date_end: '2005-08-31'
 
 design:
   columns: '2'
