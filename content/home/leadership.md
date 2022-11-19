@@ -29,7 +29,7 @@ experience:
     ##company_logo: AES
     date_start: '2021-07-01'
     date_end: 
-    description: One of four PIs leading the design, implementation and curation of the leading study of political attitudes and behaviour in Australia/
+    description: One of four PIs leading the design, implementation and curation of the leading study of political attitudes and behaviour in Australia.
 
   - title: CEO and Professor
     company: United States Studies Centre at the University of Sydney

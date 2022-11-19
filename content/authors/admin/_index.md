@@ -59,19 +59,19 @@ title: Simon Jackman
 
 I am a political scientist and data scientist, with three decades of professional experience as a researcher, teacher, mentor, leader and communicator.
 
-The purpose of my research is to advance democracy, by making discoveries about democratic processes and vulnerabilities through the rigorous analysis of data.
+The **purpose** of my research is to advance democracy, by making discoveries about democratic processes and vulnerabilities through the rigorous analysis of data.
 
 Questions I work on include: 
 
-- What predicts how people vote?  When and how do illiberal attitudes and predispositions become drivers of vote choice, such as authoritarianism and racial prejudice, and with what consequences?  Is vote choice is a standing decision based on party loyalty or ideological commitments, or a response to messages from parties and candidates presented during election campaigns?
+- When and how do **illiberal attitudes and predispositions** --- such as authoritarianism and racial prejudice --- become politically salient, and with what consequences?  Is vote choice a standing decision that changes little over the life course, based on party loyalty or ideological commitments, or a response to messages from parties and candidates?
 
-- Are electoral systems fair, or do they make help entrench a particular party or incumbents in office?
+- **Are electoral systems fair***, or do they help entrench a particular party or incumbents in office?
 
-- How to rigorously measuring key concepts of democratic theory and practice, such as democracy itself, electoral fairness, ideology and racial prejudice? 
+- How to rigorously **measure core concepts of democratic theory and practice**, such as democracy itself, electoral fairness, ideology and racial prejudice? 
 
-- How can long-standing data collection mechanisms such as mass surveys remain valid and reliable as citizens' willingness to participate in surveys declines unevenly across demographic and political groups?
+- How can long-standing data collection tools such as **mass surveys remain valid and reliable**, as citizens' participation in surveys decline unevenly across demographic and political groups?
 
-I use Bayesian methods for computation and inference whenever feasible.   I wrote a book on the topic (published in 2009) and have many published applications where a Bayesian approach brought analysis out of the "too hard" basket.
+I use **Bayesian methods** for computation and inference whenever feasible; see my book, _Bayesian Analysis for the Social Sciences_.   I have many published applications where a Bayesian approach brought analysis out of the "too hard" basket.
 
 I appear frequently in Australian and international media discussing developments in US politics and their implications for Australia and other US allies.
 
@@ -81,4 +81,4 @@ Current projects:
 - machine-learning methods for classifying and modelling large corpora of political text;
 - Australian public opinion and policy towards the US, Australia's alliance with the US, policy priorities.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/viaUSSC.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/viaUSSC.pdf" "newtab" >}}CV{{< /staticref >}}.
