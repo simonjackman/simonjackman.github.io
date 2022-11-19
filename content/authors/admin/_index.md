@@ -54,7 +54,7 @@ social:
   link: https://www.youtube.com/channel/UCbFbdQNPXYmqJ8UzDK-LWIw/videos
 
 superuser: true
-title: Professor Simon Jackman
+title: Simon Jackman
 ---
 
 I am a political scientist and data scientist, with three decades of professional experience as a researcher, teacher, mentor, leader and communicator.
@@ -81,4 +81,4 @@ Current projects:
 - machine-learning methods for classifying and modelling large corpora of political text;
 - Australian public opinion and policy towards the US, Australia's alliance with the US, policy priorities.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/viaUSSC.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/viaUSSC.pdf" "newtab" >}}CV{{< /staticref >}}.
