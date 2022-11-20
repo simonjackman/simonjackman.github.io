@@ -59,19 +59,19 @@ title: Simon Jackman
 
 I am a political scientist and data scientist, with three decades of professional experience as a researcher, teacher, mentor, leader and communicator.
 
-The **purpose** of my research is to advance democracy, by making discoveries about democratic processes and vulnerabilities through the rigorous analysis of data.
+The **purpose of my research is to advance democracy** by making discoveries about democratic processes and vulnerabilities through the rigorous analysis of data.
 
 Questions I work on include: 
 
 - When and how do **illiberal attitudes and predispositions** --- such as authoritarianism and racial prejudice --- become politically salient, and with what consequences?  Is vote choice a standing decision that changes little over the life course, based on party loyalty or ideological commitments, or a response to messages from parties and candidates?
 
-- **Are electoral systems fair***, or do they help entrench a particular party or incumbents in office?
+- **Are electoral systems fair**, or do they help entrench a particular party or incumbents in office?
 
 - How to rigorously **measure core concepts of democratic theory and practice**, such as democracy itself, electoral fairness, ideology and racial prejudice? 
 
 - How can long-standing data collection tools such as **mass surveys remain valid and reliable**, as citizens' participation in surveys decline unevenly across demographic and political groups?
 
-I use **Bayesian methods** for computation and inference whenever feasible; see my book, _Bayesian Analysis for the Social Sciences_.   I have many published applications where a Bayesian approach brought analysis out of the "too hard" basket.
+I use **Bayesian methods** for computation and inference whenever feasible; see my book, [_Bayesian Analysis for the Social Sciences_](https://www.wiley.com/en-au/Bayesian+Analysis+for+the+Social+Sciences-p-9780470011546).   I have many published applications where a Bayesian approach brought analysis out of the "too hard" basket.
 
 I appear frequently in Australian and international media discussing developments in US politics and their implications for Australia and other US allies.
 

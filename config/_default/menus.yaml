@@ -16,15 +16,18 @@ main:
   - name: Research Notes
     url: '#posts'
     weight: 5
-  - name: Academic Roles
+  - name: Academic
     url: '#experience'
     weight: 8
-  - name: Leadership Roles
+  - name: Leadership
     url: '#leadership'
     weight: 30  
   #- name: Projects
   #  url: '#projects'
   #  weight: 40  
+  - name: Honors & Awards
+    url: '#awards'
+    weight: 35
   - name: Talks
     url: '#talks'
     weight: 50
