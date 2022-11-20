@@ -81,4 +81,4 @@ Current projects:
 - machine-learning methods for classifying and modelling large corpora of political text;
 - Australian public opinion and policy towards the US, Australia's alliance with the US, policy priorities.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/viaUSSC.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/vitaUSSC.pdf" "newtab" >}}CV{{< /staticref >}}.

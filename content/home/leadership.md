@@ -51,7 +51,7 @@ experience:
   - title: President 
     company: Society for Political Methodology
     company_url: 'https://polmeth.org'
-    ##company_logo: polmeth
+    company_logo: polmeth_logo
     location: California
     date_start: '2003-09-01'
     date_end: '2005-08-31'
