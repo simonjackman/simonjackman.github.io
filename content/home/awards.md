@@ -23,32 +23,30 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: CEO and Professor
-    company: United States Studies Centre at the University of Sydney
-    company_url: 'https://ussc.edu.au'
-    company_logo: ussc_combined
-    location: Sydney, Australia
+  - title: Fellow
+    company: Academy of the Social Sciences in Australia
+    company_url: 'https://assa.edu.au'
+    ##company_logo: ussc_combined
+    location: Canberra, Australia
     date_start: '2016-04-02'
-    date_end: '2022-03-31'
-    description: Leadership of Australia's premier research institution focussed on the United States and Australia's relationship with the United States.  
+    date_end: 
 
-  - title: Professor of Political Science and (by courtesy) Statistics
-    company: Stanford University
-    company_url: 'https://stanford.edu'
-    company_logo: stanford
-    location: Stanford, California, USA
+  - title: Fellow
+    company: American Academy of Arts and Sciences
+    company_url: 'https://aaas.org'
+    ##company_logo: 
+    location: Cambridge, Massachusetts, USA
     date_start: '1996-07-01'
-    date_end: '2016-04-01'
     description: Teacher, researcher.
 
-  - title: Assistant Professor of Political Science 
-    company: University of Chicago
-    company_url: 'https://uchicago.edu'
-    company_logo: uchicago
-    location: Chicago, Illinois, USA
+  - title: Fellow
+    company: Society for Political Methodology
+    company_url: 'https://polmeth.org'
+    ##company_logo: uchicago
+    ##location: Chicago, Illinois, USA
     date_start: '1994-07-01'
-    date_end: '1996-05-01'
-    description: Teacher, researcher.
+    ##date_end: '1996-05-01'
+    ##description: Teacher, researcher.
 
 design:
   columns: '2'

@@ -27,7 +27,7 @@ main:
   #  weight: 40  
   - name: Honors & Awards
     url: '#awards'
-    weight: 35
+    weight: 40
   - name: Talks
     url: '#talks'
     weight: 50
