@@ -26,7 +26,7 @@ experience:
   - title: CEO and Professor
     company: United States Studies Centre at the University of Sydney
     company_url: 'https://ussc.edu.au'
-##    company_logo: ussc
+    company_logo: ussc_combined
     location: Sydney, Australia
     date_start: '2016-04-02'
     date_end: '2022-03-31'
@@ -35,7 +35,7 @@ experience:
   - title: Professor of Political Science and (by courtesy) Statistics
     company: Stanford University
     company_url: 'https://stanford.edu'
-##    company_logo: stanford
+    company_logo: stanford
     location: Stanford, California, USA
     date_start: '1996-07-01'
     date_end: '2016-04-01'
@@ -44,7 +44,7 @@ experience:
   - title: Assistant Professor of Political Science 
     company: University of Chicago
     company_url: 'https://uchicago.edu'
-##    company_logo: uchicago
+    company_logo: uchicago
     location: Chicago, Illinois, USA
     date_start: '1994-07-01'
     date_end: '1996-05-01'

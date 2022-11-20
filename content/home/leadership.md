@@ -34,7 +34,7 @@ experience:
   - title: CEO and Professor
     company: United States Studies Centre at the University of Sydney
     company_url: 'https://ussc.edu.au'
-    ##company_logo: ussc_combined
+    company_logo: ussc_combined
     location: California
     date_start: '2016-04-02'
     date_end: '2022-03-31'
