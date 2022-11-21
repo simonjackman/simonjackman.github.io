@@ -1,6 +1,7 @@
 module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+    - path: github.com/simonjackman/wowchmey-block-awards
   mounts:
     - source: layouts
       target: layouts
