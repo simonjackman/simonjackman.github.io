@@ -4,5 +4,9 @@ module:
   mounts:
     - source: layouts
       target: layouts
-    - source: blocks
-      target: blocks
+    - source: assets
+      target: assets
+    - source: data
+      target: data
+    - source: static
+      target: static
