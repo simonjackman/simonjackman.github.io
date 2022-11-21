@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -9,10 +9,10 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Honors, Awards & Professional Service'
 subtitle:
 
 # Date format
@@ -25,14 +25,16 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+
+  - organization: Academy of the Social Sciences in Australia
+    organization_url: 'https://socialsciences.org.au'
+    organization_logo: ASSA-2021-white
+    location: Canberra, Australia
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
+    date_start: '2018-09-01'
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
+    title: Fellow
+
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'

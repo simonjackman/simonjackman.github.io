@@ -26,9 +26,9 @@ experience:
   - title: Fellow
     company: Academy of the Social Sciences in Australia
     company_url: 'https://socialsciences.org.au'
-    ##company_logo: ASSA-2021-white
+    company_logo: ASSA-2021-white
     location: Canberra, Australia
-    date_start: '2016-04-02'
+    date_start: '2018-09-01'
     date_end: 
 
   - title: Fellow
@@ -36,16 +36,20 @@ experience:
     company_url: 'https://amacad.org'
     company_logo: amacad
     location: Cambridge, Massachusetts, USA
-    date_start: '1996-07-01'
+    date_start: '2013-04-01'
 
   - title: Fellow
     company: Society for Political Methodology
     company_url: 'https://polmeth.org'
     company_logo: polmeth
     ##location: Chicago, Illinois, USA
-    date_start: '1994-07-01'
-    ##date_end: '1996-05-01'
-    ##description: Teacher, researcher.
+    date_start: '2008-09-01'
+
+  - title: Best Article
+    company: Comparative Politics Section, American Political Science Association
+    date_start: 
+    description: One of four PIs leading the design, implementation and curation of the leading study of political attitudes and behaviour in Australia.
+  
 
 design:
   columns: '2'
