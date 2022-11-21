@@ -27,7 +27,7 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
-    - path: github.com/simonjackman/hugo_academic_awards
+    - path: github.com/simonjackman/wowchemy-block-awards
 
 ############################
 ## ADVANCED
