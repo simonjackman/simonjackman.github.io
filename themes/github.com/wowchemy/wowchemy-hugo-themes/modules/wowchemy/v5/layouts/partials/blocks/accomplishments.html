@@ -15,19 +15,16 @@
   {{ range $idx, $key := sort $block.Params.item ".date_start" "desc" }}
     <div class="card experience course">
       <div class="card-body">
-        
-          {{- if .organization_logo}}
-          {{- $svg_icon := resources.Get (printf "media/icons/brands/%s.svg" .organization_logo) -}}
-          {{ if not $svg_icon }}{{ errorf "Brand logo not found at `assets/media/icons/brands/%s.svg`" .organization_logo }}{{end}}
-          <div class="d-flex align-content-start">
-            <div class="mr-2 mb-2">
-              {{- with .organization_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
-              <img src="{{ $svg_icon.RelPermalink }}" width="56px" height="56px" alt="{{.company | plainify}}" loading="lazy">
-              {{- with .organization_url}}</a>{{end -}}
-            </div>
-            <div>
-          {{ end }}
-        
+        {{- $svg_icon := resources.Get (printf "media/icons/brands/%s.svg" (replace (lower .organization) " " "_")) -}}
+        {{- if $svg_icon }}
+        <div class="d-flex align-content-start">
+          <div class="mr-2 mb-2">
+            {{- with .organization_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
+            <img src="{{ $svg_icon.RelPermalink }}" width="56px" height="56px" alt="{{.organization | plainify}}" loading="lazy">
+            {{- with .organization_url}}</a>{{end -}}
+          </div>
+          <div>
+        {{ end }}
 
             {{- with .url -}}<a href="{{.}}" target="_blank" rel="noopener">{{- end -}}
             <div class="section-subheading card-title exp-title text-muted my-0">{{.title | markdownify | emojify}}</div>
