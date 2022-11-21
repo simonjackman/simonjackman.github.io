@@ -1,8 +1,8 @@
 module:
+  imports:
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
   mounts:
+    - source: layouts
+      target: layouts
     - source: blocks
-      target: themes/github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5/layouts/partials/blocks/
-      includeFiles: '**.html'
-    - source: blocks
-      target: assets/scss/blocks/
-      includeFiles: '**.scss'
+      target: blocks
