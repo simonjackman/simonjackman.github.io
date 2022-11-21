@@ -42,7 +42,7 @@ item:
   - title: Gregory M. Luebbert Prize for Best Article
     organization: Comparative Politics Section, American Political Science Association
     date: '2008-01-01'
-    description: Awarded for "Democracy as a Latent Variable" (with Shawn Treier), _American Journal of Political Science_.
+    description: Awarded for ["Democracy as a Latent Variable"](https://simonjackman.netlify.app/publication/treier-democracy-latent-variable-2008/) (with Shawn Treier), _American Journal of Political Science_.
   
  
 design:
