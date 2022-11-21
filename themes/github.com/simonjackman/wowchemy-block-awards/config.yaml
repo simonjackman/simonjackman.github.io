@@ -3,17 +3,5 @@ module:
     # Your block's GitHub URL (replace <USERNAME> and <COLLECTION-NAME> with your GitHub username and block collection name)
     - path: github.com/simonjackman/wowchemy-block-awards
   mounts:
-    - source: content
-      target: content
-    - source: static
-      target: static
     - source: layouts
       target: layouts
-    - source: data
-      target: data
-    - source: assets
-      target: assets
-    - source: i18n
-      target: i18n
-    - source: archetypes
-      target: archetypes
