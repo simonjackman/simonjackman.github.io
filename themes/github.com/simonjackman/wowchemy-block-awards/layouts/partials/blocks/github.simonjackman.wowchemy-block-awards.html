@@ -1,88 +1,56 @@
 {{/* My Custom Block */}}
 
-{{/* Get variables */}}
+{{/* Initialise */}}
 {{ $page := .wcPage }}
 {{ $block := .wcBlock }}
 {{ $columns := $block.Params.design.columns | default "2" }}
 
-{{/* Add your block layout below */}}
-{{/* Styles can be added to the SCSS file */}}
-{{/* Access custom front matter options via $block.Params  */}}
-{{/* E.g. mytext via $block.Params.mytext */}}
-
-{{ $items_offset := $block.content.offset | default 0 }}
-{{ $items_count := $block.content.count }}
-{{ if eq $items_count 0 }}
-  {{ $items_count = 65535 }}
-{{ else }}
-  {{ $items_count = $items_count | default 5 }}
-{{ end }}
-
-
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
-  
- 
+
+<!-- Accomplishments widget -->
+<div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
   {{ with $block.Content }}{{ . }}{{ end }}
 
-  {{ if $block.Params.awards }}
-  {{ $exp_len := len $block.Params.awards }}
-
-  {{/* Default to user's custom order (as requested in #1761) as Hugo doesn't support multiple sorts on params. */}}
-  {{ range $idx, $key := $block.Params.awards }}
-  <div class="row award">
-    <!-- Timeline -->
-    <div class="col-auto text-center flex-column d-none d-sm-flex">
-      <div class="row h-50">
-        <div class="col {{if gt $idx 0}}border-right{{end}}">&nbsp;</div>
-        <div class="col">&nbsp;</div>
-      </div>
-      <div class="m-2">
-        <span class="badge badge-pill border {{if not .date_end}}exp-fill{{end}}">&nbsp;</span>
-      </div>
-      <div class="row h-50">
-        <div class="col {{if lt $idx (sub $exp_len 1)}}border-right{{end}}">&nbsp;</div>
-        <div class="col">&nbsp;</div>
-      </div>
-    </div>
-    <!-- Content -->
-    <div class="col py-2">
-      <div class="card">
-        <div class="card-body">
-
-          {{- if .oraganization_logo}}
-          {{- $svg_icon := resources.Get (printf "media/icons/brands/%s.svg" .company_logo) -}}
-          {{ if not $svg_icon }}{{ errorf "Brand logo not found at `assets/media/icons/brands/%s.svg`" .company_logo }}{{end}}
-          <div class="d-flex align-content-start">
-            <div class="mr-2 mb-2">
-              {{- with .organization_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
-              <img src="{{ $svg_icon.RelPermalink }}" width="56px" height="56px" alt="{{.company | plainify}}" loading="lazy">
-              {{- with .organization_url}}</a>{{end -}}
-            </div>
-            <div>
-          {{ end }}
-
-              <div class="section-subheading card-title exp-title text-muted my-0">{{.title | markdownify | emojify}}</div>
-              <div class="section-subheading card-title exp-company text-muted my-0">
-                {{- with .organization_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.organization | markdownify | emojify}}{{with .organization_url}}</a>{{end -}}
-              </div>
-              <div class="text-muted exp-meta">
-                {{ (time .date) | time.Format ($block.Params.date_format | default "January 2006") }}
-                {{with .location}}
-                  <span class="middot-divider"></span>
-                  <span>{{.}}</span>
-                {{end}}
-              </div>
-
-          {{- if .organization_logo}}
-            </div>
+  {{ if $block.Params.item }}
+  {{ range $idx, $key := sort $block.Params.item ".date_start" "desc" }}
+    <div class="card experience course">
+      <div class="card-body">
+        {{- $svg_icon := resources.Get (printf "media/icons/brands/%s.svg" (replace (lower .organization) " " "_")) -}}
+        {{- if $svg_icon }}
+        <div class="d-flex align-content-start">
+          <div class="mr-2 mb-2">
+            {{- with .organization_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
+            <img src="{{ $svg_icon.RelPermalink }}" width="56px" height="56px" alt="{{.organization | plainify}}" loading="lazy">
+            {{- with .organization_url}}</a>{{end -}}
           </div>
-          {{end}}
+          <div>
+        {{ end }}
 
-          {{with .description}}<div class="card-text">{{. | markdownify | emojify}}</div>{{end}}
+            {{- with .url -}}<a href="{{.}}" target="_blank" rel="noopener">{{- end -}}
+            <div class="section-subheading card-title exp-title text-muted my-0">{{.title | markdownify | emojify}}</div>
+            {{- with .url -}}</a>{{- end -}}
+
+            <div class="card-subtitle my-0 article-metadata">
+              {{- with .organization_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
+              {{- .organization | markdownify | emojify -}}
+              {{- with .organization_url}}</a>{{end -}}
+
+              <span class="middot-divider"></span>
+
+              {{ (time .date) | time.Format ($block.Params.date_format | default "Jan 2006") }}
+            </div>
+
+        {{- if $svg_icon}}
+          </div>
         </div>
+        {{end}}
+
+        {{with .description}}
+          <div class="card-text">{{. | markdownify | emojify}}</div>
+        {{end}}
       </div>
     </div>
-  </div>
   {{end}}
   {{end}}
 </div>
+
