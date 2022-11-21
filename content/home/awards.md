@@ -1,7 +1,7 @@
 ---
 active: true
 
-widget: github.simonjackman.wowchemy-block-awards
+widget: awards
 
 # This file represents a page section.
 headless: true
