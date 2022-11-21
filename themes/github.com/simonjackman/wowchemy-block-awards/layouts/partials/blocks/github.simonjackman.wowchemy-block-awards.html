@@ -5,6 +5,8 @@
 {{ $block := .wcBlock }}
 {{ $columns := $block.Params.design.columns | default "2" }}
 
+{{ partial "functions/parse_block" (dict "page" $ "block" $block) }}
+
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
 
 <!-- Accomplishments widget -->
