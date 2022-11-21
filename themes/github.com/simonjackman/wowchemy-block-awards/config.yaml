@@ -1,7 +1,7 @@
 module:
   mounts:
     - source: blocks
-      target: layouts/partials/blocks/
+      target: themes/github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5/layouts/partials/blocks/
       includeFiles: '**.html'
     - source: blocks
       target: assets/scss/blocks/
