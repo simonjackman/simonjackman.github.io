@@ -25,8 +25,8 @@ experience:
 
   - title: Fellow
     company: Academy of the Social Sciences in Australia
-    company_url: 'https://assa.edu.au'
-    ##company_logo: ussc_combined
+    company_url: 'https://socialsciences.org.au'
+    ##company_logo: ASSA-2021-white
     location: Canberra, Australia
     date_start: '2016-04-02'
     date_end: 
@@ -41,7 +41,7 @@ experience:
   - title: Fellow
     company: Society for Political Methodology
     company_url: 'https://polmeth.org'
-    ##company_logo: uchicago
+    company_logo: polmeth
     ##location: Chicago, Illinois, USA
     date_start: '1994-07-01'
     ##date_end: '1996-05-01'
