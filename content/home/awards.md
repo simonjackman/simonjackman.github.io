@@ -17,7 +17,7 @@ subtitle:
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-awards:
+item:
 
   - title: Fellow
     organization: Academy of the Social Sciences in Australia
