@@ -45,12 +45,13 @@ experience:
     ##location: Chicago, Illinois, USA
     date_start: '2008-09-01'
 
-  - title: Best Article
+  - title: Gregory M. Luebbert Prize for Best Article
     company: Comparative Politics Section, American Political Science Association
-    date_start: 
-    description: One of four PIs leading the design, implementation and curation of the leading study of political attitudes and behaviour in Australia.
+    date_start: 2008-01-01
+    date_end: 2009-12-31
+    description: Awarded for "Democracy as a Latent Variable" (with Shawn Treier), _American Journal of Political Science_.
   
-
+ 
 design:
   columns: '2'
 ---

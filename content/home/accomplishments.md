@@ -17,7 +17,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -30,7 +30,7 @@ item:
     organization_url: 'https://socialsciences.org.au'
     organization_logo: ASSA-2021-white
     location: Canberra, Australia
-    date_end: ''
+    date_end: 
     date_start: '2018-09-01'
     organization_url: https://www.coursera.org
     title: Fellow
@@ -42,6 +42,7 @@ item:
     organization: edX
     organization_url: https://www.edx.org
     title: Blockchain Fundamentals
+    
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
