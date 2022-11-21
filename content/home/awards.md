@@ -33,11 +33,10 @@ experience:
 
   - title: Fellow
     company: American Academy of Arts and Sciences
-    company_url: 'https://aaas.org'
-    ##company_logo: 
+    company_url: 'https://amacad.org'
+    company_logo: amacad
     location: Cambridge, Massachusetts, USA
     date_start: '1996-07-01'
-    description: Teacher, researcher.
 
   - title: Fellow
     company: Society for Political Methodology
