@@ -56,6 +56,44 @@ experience:
     date_start: '2003-09-01'
     date_end: '2005-08-31'
 
+  - title: Council Member
+    company: American Political Science Association
+    company_url: 'https://apsanet.org'
+    company_logo: APSA
+    localion: Washington DC
+    date_start: '2007-09-01'
+    date_end: '2010-09-01'
+
+  - title: Annual Meeting Program Co-Chair
+    company: American Political Science Association
+    company_url: 'https://apsanet.org'
+    company_logo: APSA
+    location: Washington DC
+    date_start: '2014-01-01'
+    date_end: '2014-09-15'
+    
+  - title: Co-Editor
+    company: _Annual Review of Political Science_
+    company_url: 'https://www.annualreviews.org/journal/polisci'
+    company_logo: ar-logo
+    date_start: '2008-01-01'
+    date_end: '2013-09-01'
+    
+  - title: Task Force on Democracy Audits and Governmental Indicators
+    company: American Political Science Association
+    company_url: 'https://apsanet.org'
+    company_logo: APSA
+    location: Washington DC
+    date_start: '2010-09-01'
+    date_end: '2011-09-01'
+
+  - title: Program Committee
+    company: UseR! Conference
+    company_logo: useR-middle
+    location: Vienna, Australia
+    date_start: '2006-06-01'
+    date_end: '2006-06-30'
+
 design:
   columns: '2'
 ---
