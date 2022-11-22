@@ -44,9 +44,9 @@ experience:
     date: '2008-01-01'
     description: Awarded for "Democracy as a Latent Variable" (with Shawn Treier), _American Journal of Political Science_.
   
-  - title: Best Paper, _Journal of Politics_
+  - title: 'Best Paper, _Journal of Politics_'
     organization: Southern Political Science Association
-    organization_url: https://spsa.net
+    organization_url: 'https://spsa.net'
     organization_logo: spsa
     date: '2006-11-01'
     description: Awarded for "The Limits of Deliberative Discussion: A Model of Everyday Political Arguments" (with Paul M. Sniderman)
