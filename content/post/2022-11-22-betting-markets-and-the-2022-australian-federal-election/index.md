@@ -8,7 +8,7 @@ tags: [auspol]
 subtitle: ''
 summary: ''
 authors: []
-##external_link: https://simonjackman.github.io/sportsbet
+external_link: https://simonjackman.github.io/sportsbet
 lastmod: '2022-05-21'
 featured: no
 image:
