@@ -14,7 +14,7 @@ main:
     url: '#featured'
     weight: 4  
   - name: Research Notes
-    url: '#notes'
+    url: '#posts'
     weight: 5
   - name: Academic
     url: '#experience'
