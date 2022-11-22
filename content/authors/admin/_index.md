@@ -52,7 +52,10 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCbFbdQNPXYmqJ8UzDK-LWIw/videos
-
+- icon: soundcloud
+  icon_pack: fab
+  link: https://on.soundcloud.com/YQuXZ
+  
 superuser: true
 title: Simon Jackman
 ---
