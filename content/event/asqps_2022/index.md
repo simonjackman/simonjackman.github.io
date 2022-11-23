@@ -15,14 +15,14 @@ date: "2022-12-13T14:00:00+11:00"
 date_end: "2022-12-13T15:50:00+11:00"
 event: Australian Society for Quantitative Political Science
 event_url: https://asqps.org.au/2022-annual-conference-melbourne/
-featured: true
+featured: false
 image:
   caption: 'Election topics on Facebook: average interactions with Facebook posts by media organisations, per thousand subscribers, plotted against number of posts per topic'
   focal_point: Right
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
+  name: '@andrea_carson'
   url: https://twitter.com/andrea_carson
 location: 'Institute for Humanities & Social Sciences, Australian Catholic University'
 projects:
@@ -30,7 +30,6 @@ projects:
 publishDate: "2022-11-23"
 slides: example
 summary: No slides yet
-
 url_code: ""
 url_pdf: ""
 url_slides: ""
