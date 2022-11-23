@@ -3,7 +3,7 @@ title: Poll averages for the 2022 Australian election
 author: Simon Jackman
 date: '2022-05-21'
 slug: poll-averages-for-the-2022-australian-election
-categories: [auspol]
+categories: [elections, politics, auspol]
 tags: [polls]
 subtitle: ''
 summary: ''
