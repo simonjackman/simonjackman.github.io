@@ -27,7 +27,7 @@ links:
 location: 'Institute for Humanities & Social Sciences, Australian Catholic University'
 projects:
 - NLP
-publishDate: "2022-11-23 19:25:50 AEDT"
+publishDate: "2022-11-23"
 slides: example
 summary: No slides yet
 

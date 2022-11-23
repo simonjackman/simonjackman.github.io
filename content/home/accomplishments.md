@@ -32,7 +32,6 @@ item:
     location: Canberra, Australia
     date_end: 
     date_start: '2018-09-01'
-    organization_url: https://www.coursera.org
     title: Fellow
 
   - certificate_url: https://www.edx.org
