@@ -7,7 +7,7 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 17
+weight: 5
 
 title: 'Recent & Upcoming Talks'
 subtitle:
