@@ -10,15 +10,15 @@ main:
   # - name: Books
   #   url: bookdown/
   #  weight: 3  
-  - name: Publications
-    url: '#featured'
-    weight: 4  
   - name: Research Notes
     url: '#posts'
     weight: 5
   - name: Talks
     url: '#talks'
-    weight: 7
+    weight: 17
+  - name: Publications
+    url: '#publications'
+    weight: 4    
   - name: Academic
     url: '#experience'
     weight: 8
