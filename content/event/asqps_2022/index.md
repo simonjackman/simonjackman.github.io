@@ -12,7 +12,7 @@ address:
 all_day: false
 authors: [Simon Jackman, Andrea Carson]
 date: "2022-12-13 14:00:00 AEDT"
-date_end: "2022-12-13T15:50"
+date_end: "2022-12-13 15:50:00 AEDT"
 event: Australian Society for Quantitative Political Science
 event_url: https://asqps.org.au/2022-annual-conference-melbourne/
 featured: true
