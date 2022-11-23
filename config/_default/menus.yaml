@@ -16,6 +16,9 @@ main:
   - name: Research Notes
     url: '#posts'
     weight: 5
+  - name: Talks
+    url: '#talks'
+    weight: 7
   - name: Academic
     url: '#experience'
     weight: 8
@@ -28,9 +31,6 @@ main:
   - name: Honors & Awards
     url: '#awards'
     weight: 40
-  - name: Talks
-    url: '#talks'
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
