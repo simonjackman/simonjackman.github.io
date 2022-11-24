@@ -31,10 +31,10 @@ experience:
     description: One of four PIs leading the design, implementation and curation of the leading study of political attitudes and behaviour in Australia.
 
   - title: CEO and Professor
-    company: United States Studies Centre at the University of Sydney
+    company: United States Studies Centre
     company_url: 'https://ussc.edu.au'
     company_logo: ussc
-    location: California
+    location: University of Sydney, Australia
     date_start: '2016-04-02'
     date_end: '2022-03-31'
     description: Leadership of Australia's premier research institution on the United States and of Australia's relationship with the United States.   Annual budget of $7-10M, responsible to a Board of Directors co-appointed by the University of Sydney and the American Australian Association.
@@ -43,6 +43,7 @@ experience:
     company: American National Election Studies
     company_url: 'https://electionstudies.org'
     company_logo: ANES
+    location: Stanford, California
     date_start: '2009'
     date_end: '2016'
     description: One of four PIs leading the design, implementation and curation of the world's longest running and most authoritative study of mass political attitudes and behavior.  Funded by the National Science Foundation at approx USD $9M per 4 yr election cycle.
@@ -51,7 +52,6 @@ experience:
     company: Society for Political Methodology
     company_url: 'https://polmeth.org'
     company_logo: polmeth
-    location: California
     date_start: '2003'
     date_end: '2005'
 
