@@ -22,7 +22,7 @@ location: 'Room TBA, Parliament House'
 projects:
 - auspol
 publishDate: "2022-11-24"
-slides: example
+slides: 
 summary: No slides yet
 url_code: ""
 url_pdf: ""
