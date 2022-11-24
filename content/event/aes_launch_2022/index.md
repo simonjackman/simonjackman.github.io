@@ -7,7 +7,6 @@ address:
   city: Canberra
   country: Australia
   region: ACT
-  street: Parliament House
 all_day: false
 authors: [Sarah Cameron, Ian McAllister, Simon Jackman, Jill Sheppard]
 date: "2022-12-05T09:30:00+11:00"

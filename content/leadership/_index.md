@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Principal Investigator
-    company: Australian Election Survey
+    company: Australian Election Study
     company_url: 'https://aes.anu.edu.au'
     company_logo: AES
     date_start: '2021'
