@@ -20,7 +20,7 @@ summary: >
   
   - Related to the currency, salience and concentration of authoritarianism and populism among Republican voters are historically high levels of isolationism, a profound lack of optimism about the future of the United States, and deep partisan disagreements as to what problems the country faces — at home and abroad — and how to address them.'
 authors: []
-lastmod: '2022-11-24T20:27:44+11:00'
+lastmod: '2022-03-21'
 featured: no
 image:
   caption: ''
