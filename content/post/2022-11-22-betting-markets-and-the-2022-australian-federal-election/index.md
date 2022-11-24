@@ -1,7 +1,7 @@
 ---
 title: Betting markets and the 2022 Australian Federal election
 author: Simon Jackman
-date: '2022-11-22'
+date: '2022-05-21'
 slug: betting-markets-and-the-2022-australian-federal-election
 categories: [elections, politics, auspol]
 tags: [auspol, betting markets]
