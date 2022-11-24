@@ -6,7 +6,7 @@ slug: betting-markets-and-the-2022-australian-federal-election
 categories: [elections, politics, auspol]
 tags: [auspol, betting markets]
 subtitle: ''
-summary: ''
+summary: 'Election day summary of Sportsbet betting markets for "party to form next government" and all 151 House of Representatives seats.'
 authors: []
 external_link: https://simonjackman.github.io/sportsbet
 lastmod: '2022-05-21'

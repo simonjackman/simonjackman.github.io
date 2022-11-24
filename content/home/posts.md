@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Research Notes
+title: Research Notes and Reports
 subtitle:
 
 content:
@@ -32,7 +32,7 @@ content:
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
-  order: asc
+  order: desc
 
 design:
   # Choose a view for the listings:

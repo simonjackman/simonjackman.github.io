@@ -14,7 +14,7 @@ summary: >
   
   - Under Trump, Republican Party supporters have become disproportionately authoritarian and populist.
   
-  - Related to the currency, salience and concentration of authoritarianism and populism among Republican voters are historically high levels of isolationism, a profound lack of optimism about the future of the United States, and deep partisan disagreements as to what problems the country faces — at home and abroad — and how to address them.
+  - Related to the currency, salience and concentration of authoritarianism and populism among Republican voters are historically high levels of isolationism, a profound lack of optimism about the future of the United States, and deep partisan disagreements as to what problems the US faces — at home and abroad — and how to address them.
 authors: []
 lastmod: '2022-03-21'
 featured: no

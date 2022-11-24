@@ -6,7 +6,8 @@ slug: poll-averages-for-the-2022-australian-election
 categories: [elections, politics, auspol]
 tags: [polls]
 subtitle: ''
-summary: ''
+summary: >
+  At the end of the 2022 Australian federal election campaign, a simple poll average estimated that the Coalition would win 46.5% of the two-party preferred vote.   Correcting for the average level of bias in the five previous elections (2007 to 2019), this estimate was shifted to 47.9% Coalition TPP.   This corrected estimate corresponds _exactly_ to the Coalition's actual result in the 2022 election.
 lastmod: '2022-11-23T08:02:48+11:00'
 external_link: https://simonjackman.github.io/poll_averaging_aus_2022
 featured: no

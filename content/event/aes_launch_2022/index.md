@@ -22,7 +22,7 @@ projects:
 - auspol
 publishDate: "2022-11-24"
 slides: 
-summary: No slides yet
+summary: 'No slides yet. [Contact me](https://simonjackman.netlify.app/#contact) if you would like to attend in person, as this event is being held in a "after security" area of Parliament House.'
 url_code: ""
 url_pdf: ""
 url_slides: ""
