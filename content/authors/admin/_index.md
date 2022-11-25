@@ -60,15 +60,15 @@ superuser: true
 title: Simon Jackman
 ---
 
-I am a political scientist and data scientist, with three decades of professional experience as a researcher, teacher, mentor, leader and communicator.
+I have three decades of professional experience as a researcher, teacher, mentor, leader and communicator, in political science and data science.
 
-The **purpose of my research is to advance democracy** by making discoveries about democratic processes and vulnerabilities through the rigorous analysis of data.
+The **purpose of my research is to advance democracy** by making discoveries about democratic processes and their frailties through the rigorous analysis of data.
 
 Questions I work on include: 
 
-- When and how do **illiberal attitudes and predispositions** --- such as authoritarianism and racial prejudice --- become politically salient, and with what consequences?  Is vote choice a standing decision that changes little over the life course, based on party loyalty or ideological commitments, or a response to messages from parties and candidates?
+- When and how do **illiberal attitudes and predispositions** --- such as authoritarianism and racial prejudice --- become politically salient, and with what consequences?  Is vote choice a standing decision that changes little over the life course, anchored by party loyalty or ideology, or responsive to campaigns and messages from parties and candidates?
 
-- **Are electoral systems fair**, or do they help entrench a particular party or incumbents in office?
+- **Are electoral systems fair** or do they help entrench a particular party or incumbents in office?
 
 - How to rigorously **measure core concepts of democratic theory and practice**, such as democracy itself, electoral fairness, ideology and racial prejudice? 
 
