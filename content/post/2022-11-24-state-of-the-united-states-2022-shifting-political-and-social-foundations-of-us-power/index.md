@@ -4,8 +4,8 @@ title: 'State of the United States 2022: Shifting political and social foundatio
 author: Simon Jackman
 date: '2022-03-21'
 slug: state-of-the-united-states-2022-shifting-political-and-social-foundations-of-us-power
-categories: []
-tags: [uspol, auspol, alliance]
+categories: [uspol, auspol, alliance, surveys, authoritarianism]
+tags: [uspol, auspol, alliance, authoritarianism]
 subtitle: ''
 summary: >
   Survey research undertaken for the United States Studies Centre in December 2021 reveals a United States deeply divided, increasingly isolationist and pessimistic, undergoing substantial democratic backsliding and at risk of more. Specifically: 
