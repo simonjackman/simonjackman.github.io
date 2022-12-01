@@ -18,7 +18,7 @@ date_format: Jan 2006
 experience:
   - company: Climate 200
     company_url: https://www.climate200.com.au
-    company_logo: clc
+    company_logo: c200
     location: Sydney, Australia.
     date_start: '2022'  
     description: >
