@@ -16,7 +16,8 @@ title: Consulting clients
 date_format: '2006'
 
 experience:
-  - company: Climate 200
+  - title: ''
+    company: Climate 200
     company_url: https://www.climate200.com.au
     company_logo: c200
     location: Sydney, Australia.
@@ -24,7 +25,8 @@ experience:
     description: >
       Analysis of polling data, election returns, demographic data; designing and creating donor and contact database.   Part of a team that helped elect six "teal" independent candidates to the Australian House of Representatives in Australia's May 2022 House of Representatives elections.
 
-  - company: Campaign Legal Center
+  - title: ''
+    company: Campaign Legal Center
     company_url: https://campaignlegal.org
     company_logo: clc
     location: Washington DC, USA.
