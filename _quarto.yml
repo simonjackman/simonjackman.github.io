@@ -7,12 +7,13 @@ project:
 
 website:
   title: "Simon Jackman"
-  site-url: https://simonjackman.github.io
+  site-url: https://simonjackman.netlify.app
   description: "Elections, public opinion, data science"
   open-graph:
     locale: en_US
   twitter-card:
     creator: "@simonjackman"
+  google-analytics: 'G-DD0XG6JZDH'
   ##comments:
   ##  utterances:
   ##    repo: mikemahoney218/mm218.dev
