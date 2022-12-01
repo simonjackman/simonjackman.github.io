@@ -18,6 +18,7 @@ date_format: Jan 2006
 experience:
   - company: Climate 200
     company_url: https://www.climate200.com.au
+    company_logo: clc
     location: Sydney, Australia.
     date_start: '2022'  
     description: >
@@ -25,6 +26,7 @@ experience:
 
   - company: Campaign Legal Center
     company_url: https://campaignlegal.org
+    company_logo: clc
     location: Washington DC, USA.
     date_start: 2016
     date_end: 2017
@@ -33,12 +35,18 @@ experience:
 
   - company: Facebook
     date_start: 2014
+    company_logo: fb
     location: Menlo Park, California
     description: Design and analysis of employee experience surveys.
     
   - company: Huffington Post
+    company_url: https://www.huffpost.com
+    company_logo: huffpost
     date_start: 2012
     location: Washington DC, USA.
     description: >
       Poll analysis and averaging, predictive modelling ahead of 2012 US presidential election.  Successfully predicted winner of presidential election in all 50 states.
-      
+
+design:
+  columns: '2'
+---      
