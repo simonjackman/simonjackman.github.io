@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
+widget: experience
 
 # This file DOES NOT represents a page section.
 headless: true
