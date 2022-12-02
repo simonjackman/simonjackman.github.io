@@ -31,7 +31,7 @@ experience:
     date_start: '2016-01-01'
     date_end: '2017-01-01'
     description: >
-      Expert witness in landmark partisan gerrymandering litigation in the United States; [Gill v Whitford](https://www.brennancenter.org/our-work/court-cases/gill-v-whitford) (Wisconsin state legislative redistricting) and [Common Cause v Rucho](https://www.brennancenter.org/our-work/court-cases/rucho-v-league-women-voters-north-carolina) (North Carolina Congressional redistricting).   Helped produce the first affirmative trial verdicts for plaintiffs alleging partisan gerrymandering; cases subsequently appealed to the Supreme Court of the United States.
+      Expert witness in landmark partisan gerrymandering litigation in the United States [_Gill v Whitford_](https://en.wikipedia.org/wiki/Gill_v._Whitford) (Wisconsin state legislative redistricting) and [_Common Cause v Rucho_](https://en.wikipedia.org/wiki/Rucho_v._Common_Cause) (North Carolina Congressional redistricting).   Helped produce the first affirmative trial verdicts for plaintiffs alleging partisan gerrymandering; cases subsequently appealed to the Supreme Court of the United States.
 
   - company: Facebook
     date_start: '2014-01-01'

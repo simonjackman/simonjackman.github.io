@@ -2,12 +2,18 @@
   font-family: 'Avenir';
   font-style: normal;
   font-weight: 400;
-  src: local('Avenir LT STD'), url('fonts/AvenirLTStd-Book.otf');
+  src: 
+    local('Avenir LT STD'), 
+    local('AvenirLTStd-Book'),
+    url('static/fonts/AvenirLTStd-Book.otf');
 }
 
 @font-face {
   font-family: 'Avenir';
   font-style: bold;
   font-weight: 600;
-  src: local('Avenir LT STD'), url('fonts/AvenirLTStd-Medium.otf');
+  src:
+    local('Avenir LT STD'),
+    local('AvenirLTStd-Medium'),
+    url('static/fonts/AvenirLTStd-Medium.otf');
 }

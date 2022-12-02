@@ -2,7 +2,6 @@
 name = "Avenir"
 
 # Optional Google font URL
-# Optional Google font URL
 google_fonts = "family=Roboto+Mono&family=Source+Sans+Pro:wght@200;300;400;700"
 
 # Font families
