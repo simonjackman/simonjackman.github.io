@@ -29,10 +29,10 @@ projects:
 - NLP
 publishDate: "2022-11-23"
 slides: example
-summary: No slides yet
+summary: 
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://rpubs.com/simonjackman/asqps_2022"
 url_video: ""
 ---
 
