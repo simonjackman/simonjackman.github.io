@@ -28,7 +28,7 @@ location: 'Institute for Humanities & Social Sciences, Australian Catholic Unive
 projects:
 - NLP
 publishDate: "2022-11-23"
-slides: example
+slides: "https://rpubs.com/simonjackman/asqps_2022"
 summary: 
 url_code: ""
 url_pdf: ""
