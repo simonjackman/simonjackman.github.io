@@ -20,9 +20,10 @@ experience:
     company_url: https://www.climate200.com.au
     company_logo: c200
     location: Sydney, Australia.
-    date_start: '2022'  
+    date_start: '2022'
+    date_end: '2023'
     description: >
-      Analysis of polling data, election returns, demographic data; designing and creating donor and contact database.   Part of a team that helped elect six "teal" independent candidates to the Australian House of Representatives in Australia's May 2022 House of Representatives elections.
+      Analysis of polling data, election returns, demographic data; designing and creating donor and contact database.   Assisting a team that helped elect six "teal" independent candidates to the Australian House of Representatives in Australia's May 2022 House of Representatives elections.
 
   - company: Campaign Legal Center
     company_url: https://campaignlegal.org
