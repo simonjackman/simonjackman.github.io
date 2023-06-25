@@ -21,6 +21,7 @@ experience:
     company_logo: c200
     location: Sydney, Australia.
     date_start: '2022-01-01'  
+    date_end: '2023-01-01'
     description: >
       Analysis of polling data, election returns, demographic data; designing and creating donor and contact database.   Part of a team that helped elect six "teal" independent candidates to the Australian House of Representatives in Australia's May 2022 House of Representatives elections.
 
