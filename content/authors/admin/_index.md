@@ -76,7 +76,7 @@ Questions I am working on include:
 
 - How can long-standing data collection tools such as **mass surveys remain valid and reliable**, as citizens' participation in surveys decline unevenly across demographic and political groups?
 
-I use **Bayesian methods** for computation and inference whenever feasible; see my book, [_Bayesian Analysis for the Social Sciences_](https://www.wiley.com/en-au/Bayesian+Analysis+for+the+Social+Sciences-p-9780470011546).   I have many published applications where a Bayesian approach brought analysis out of the "too hard" basket.
+I use **Bayesian methods** for computation and inference whenever feasible; see my book, [_Bayesian Analysis for the Social Sciences_](https://www.wiley.com/en-au/Bayesian+Analysis+for+the+Social+Sciences-p-9780470011546).
 
 I appear frequently in Australian and international media discussing developments in US politics and their implications for Australia and other US allies.
 
