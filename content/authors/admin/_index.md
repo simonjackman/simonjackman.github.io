@@ -60,17 +60,19 @@ superuser: true
 title: Simon Jackman
 ---
 
-I have three decades of professional experience as a researcher, teacher, mentor, leader and communicator, in political science and data science.
+I have three decades of professional experience as a researcher, teacher, mentor, leader and communicator, in political science and data science, in the United States and Australia.
 
 The **purpose of my research is to advance democracy** by making discoveries about democratic processes and their frailties through the rigorous analysis of data.
 
-Questions I work on include: 
+Questions I am working on include: 
 
-- When and how do **illiberal attitudes and predispositions** --- such as authoritarianism and racial prejudice --- become politically salient, and with what consequences?  Is vote choice a standing decision that changes little over the life course, anchored by party loyalty or ideology, or responsive to campaigns and messages from parties and candidates?
+- When and how do **illiberal attitudes and predispositions** --- such as authoritarianism and racial prejudice --- become politically salient, and with what consequences?  
+
+- **What drives vote choice** in contemporary democracies?   Which issues or campaign messages prompt vote choices that reinforce or change voters' party loyalties? 
 
 - **Are electoral systems fair** or do they help entrench a particular party or incumbents in office?
 
-- How to rigorously **measure core concepts of democratic theory and practice**, such as democracy itself, electoral fairness, ideology and racial prejudice? 
+- How to rigorously **measure core concepts of democratic theory and practice**, such as democracy itself, electoral fairness, or attitudinal states (political ideologies, trust in democratic processes and institutions, authoritarianism and racial prejudice)? 
 
 - How can long-standing data collection tools such as **mass surveys remain valid and reliable**, as citizens' participation in surveys decline unevenly across demographic and political groups?
 
@@ -80,8 +82,10 @@ I appear frequently in Australian and international media discussing development
 
 Current projects:
 
-- small-area estimation (aka "ecological" or "cross-level" inference); 
-- machine-learning methods for classifying and modelling large corpora of political text;
+- small-area estimation: inferring public opinion at the level of parliamentary seats/districts, postcodes, local government areas etc, from macro-level data.
+
+- machine-learning methods for classifying and modelling large corpora of political text: identifying persuasive and persistent campaign messages and narratives, misinformation and disinformation, counter0narratives.
+
 - Australian public opinion and policy towards the US, Australia's alliance with the US, policy priorities.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/vitaUSSC.pdf" "newtab" >}}CV{{< /staticref >}}.
