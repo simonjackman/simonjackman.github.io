@@ -9,7 +9,7 @@ subtitle: 'Updated regularly; follow link.'
 summary: I average public polls estimating voting intentions for the Voice referendum. My analysis produces estimates of daily levels and trend in the proportion supporting “Yes” and the distinctiveness of each pollster’s estimates.
 lastmod: '2022-06-30'
 external_link: https://simonjackman.github.io/poll_averaging_voice_2023/poll_averaging.html
-featured: yes
+featured: no
 image:
   caption: ''
   focal_point: ''
