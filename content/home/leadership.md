@@ -25,6 +25,7 @@ experience:
 
   - title: Principal Investigator
     company: Australian Election Survey
+    location: Canberra & Sydney, Australia
     company_url: 'https://aes.anu.edu.au'
     company_logo: AES_logo
     date_start: '2021-07-01'
@@ -35,7 +36,7 @@ experience:
     company: United States Studies Centre at the University of Sydney
     company_url: 'https://ussc.edu.au'
     company_logo: ussc_combined
-    location: California
+    location: Sydney, Australia
     date_start: '2016-04-02'
     date_end: '2022-03-31'
     description: Leadership of Australia's premier research institution on the United States and of Australia's relationship with the United States.   Annual budget of $7-10M, responsible to a Board of Directors co-appointed by the University of Sydney and the American Australian Association.
@@ -43,6 +44,7 @@ experience:
   - title: Principal Investigator
     company: American National Election Studies
     company_url: 'https://electionstudies.org'
+    location: Stanford, California; Ann Arbor, Michigan
     company_logo: ANES_logo
     date_start: '2009-07-01'
     date_end: '2016-03-31'
@@ -52,7 +54,7 @@ experience:
     company: Society for Political Methodology
     company_url: 'https://polmeth.org'
     company_logo: polmeth_logo
-    location: California
+    location: Stanford, California
     date_start: '2003-09-01'
     date_end: '2005-08-31'
 
@@ -90,7 +92,7 @@ experience:
   - title: Program Committee
     company: UseR! Conference
     company_logo: useR-middle
-    location: Vienna, Australia
+    location: Vienna, Austria
     date_start: '2006-06-01'
     date_end: '2006-06-30'
 
