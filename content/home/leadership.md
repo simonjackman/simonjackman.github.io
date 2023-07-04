@@ -62,7 +62,7 @@ experience:
     company: American Political Science Association
     company_url: 'https://apsanet.org'
     company_logo: APSA
-    localion: Washington DC
+    location: Washington DC
     date_start: '2017-09-01'
     date_end: '2020-09-01'
 
@@ -78,6 +78,7 @@ experience:
     company: _Annual Review of Political Science_
     company_url: 'https://www.annualreviews.org/journal/polisci'
     company_logo: ar-logo
+    location: Palo Alto, California
     date_start: '2008-01-01'
     date_end: '2013-09-01'
     
