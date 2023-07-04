@@ -63,8 +63,8 @@ experience:
     company_url: 'https://apsanet.org'
     company_logo: APSA
     localion: Washington DC
-    date_start: '2007-09-01'
-    date_end: '2010-09-01'
+    date_start: '2017-09-01'
+    date_end: '2020-09-01'
 
   - title: Annual Meeting Program Co-Chair
     company: American Political Science Association
