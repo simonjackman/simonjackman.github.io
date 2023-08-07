@@ -10,7 +10,7 @@ website:
   site-url: https://simonjackman.netlify.app
   description: "Elections, public opinion, data science"
   open-graph:
-    locale: en_US
+    locale: en_AU
   twitter-card:
     creator: "@simonjackman"
   google-analytics: 'G-DD0XG6JZDH'
@@ -30,7 +30,7 @@ website:
       ##- icon: rss
       ##  href: blog.xml
   page-footer:
-    left: "© Copyright 2022 Simon Jackman. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
+    left: "© Copyright 2023 Simon Jackman. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
 format:
   html:
     theme: [sandstone, _variables.scss]

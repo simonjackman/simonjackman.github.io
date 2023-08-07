@@ -64,7 +64,7 @@ I have three decades of professional experience as a researcher, teacher, mentor
 
 The **purpose of my research is to advance democracy** by making discoveries about democratic processes and their frailties through the rigorous analysis of data.
 
-Questions I am working on include: 
+Questions I work on include: 
 
 - When and how do **illiberal attitudes and predispositions** --- such as authoritarianism and racial prejudice --- become politically salient, and with what consequences?  
 
@@ -84,8 +84,8 @@ Current projects:
 
 - small-area estimation: inferring public opinion at the level of parliamentary seats/districts, postcodes, local government areas etc, from macro-level data.
 
-- machine-learning methods for classifying and modelling large corpora of political text: identifying persuasive and persistent campaign messages and narratives, misinformation and disinformation, counter0narratives.
+- machine-learning methods for classifying and modelling large corpora of political text: identifying persuasive and persistent campaign messages and narratives, misinformation and disinformation, counter-narratives.
 
-- Australian public opinion and policy towards the US, Australia's alliance with the US, policy priorities.
+- Australian public opinion and policy towards the US, Australia's alliance with the US, foreign policy priorities.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/vitaUSSC.pdf" "newtab" >}}CV{{< /staticref >}}.
