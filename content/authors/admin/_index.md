@@ -62,18 +62,21 @@ title: Simon Jackman
 
 I have three decades of professional experience as a researcher, teacher, mentor, leader and communicator, in political science and data science, in the United States and Australia.  
 
-Born and raised in Australia, I moved to the US for doctoral studies at the University of Rochester and Princeton, before two decades of academic appointments at the University of Chicago and Stanford University.  I returned to Australia in 2015, and was the CEO of the US Studies Centre at the University of Sydney for six years (2016-2022) where I am now an Honorary Professor.  I am an elected fellow of the American Academy of Arts and Sciences, the Academy of the Social Sciences in Australia, and the Society for Political Methodology. 
+Born and raised in Australia, I moved to the US for doctoral studies at the University of Rochester and Princeton University, before two decades of academic appointments at the University of Chicago and Stanford University.  I returned to Australia in 2015 and was the CEO and Professor of Political Science at the US Studies Centre at the University of Sydney for six years (2016-2022) where I am now an Honorary Professor.  I am an elected fellow of the American Academy of Arts and Sciences, the Academy of the Social Sciences in Australia, and the Society for Political Methodology. 
 
-I am consulting data analyst and data strategist, with high-profile clients in politics, advocacy, media, academia and business.
+I am consulting data analyst and strategist, with clients in politics, advocacy, media, academia and business.
 
-My consulting work spans survey research, experimental design and analysis, statistical modelling, machine learning, natural language processing, data visualization.  Solutions I provide include:
+My consulting work spans survey research, experimental design and analysis, statistical modelling, machine learning, natural language processing and data visualization.  Solutions I provide include:
 
-- Informing strategy: identifying "targets of opportunity" and vulnerabilities in both political and commerical settings, optimal messaging and framing.   
+- Informing strategy: identifying targets of opportunity and vulnerabilities in both political and commercial settings, optimal messaging and framing.   
 
-- Close-to-real time tracking of voter or consumer sentiment, combining information from disparate sources to form best-in-class projections of to small geographic areas, offering tactical support for election or advocacy campaigns.
+- Close to real-time tracking of voter or consumer sentiment, combining information from disparate sources to yield best-in-class projections across small geographic areas; offering tactical, decision-support for election or advocacy campaigns.
 
-- Helping clients bring data into their decision-making, advising on hiring, IT, and processes.
+- Helping clients bring data into their decision-making; advising on hiring, IT, and data collection, curation and dissemination across the enterprise.
 
+- Bespoke modeling, simulation and forecasting.
+
+- Training and mentoring in data science, machine learning, and Bayesian statistics.
 
 Current projects:
 
