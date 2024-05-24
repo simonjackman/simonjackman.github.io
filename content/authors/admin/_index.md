@@ -24,7 +24,7 @@ last_name: Jackman
 
 organizations:
 - name: University of Sydney
-role: Professor
+role: Honorary Professor
 
 social:
 #- icon: envelope
@@ -60,25 +60,20 @@ superuser: true
 title: Simon Jackman
 ---
 
-I have three decades of professional experience as a researcher, teacher, mentor, leader and communicator, in political science and data science, in the United States and Australia.
+I have three decades of professional experience as a researcher, teacher, mentor, leader and communicator, in political science and data science, in the United States and Australia.  
 
-The **purpose of my research is to advance democracy** by making discoveries about democratic processes and their frailties through the rigorous analysis of data.
+Born and raised in Australia, I moved to the US for doctoral studies at the University of Rochester and Princeton, before two decades of academic appointments at the University of Chicago and Stanford University.  I returned to Australia in 2015, and was the CEO of the US Studies Centre at the University of Sydney for six years (2016-2022).  I am now an Honorary Professor with the University of Sydney.   
 
-Questions I work on include: 
+I am consulting data analyst and data strategist, with high-profile clients in politics, advocacy, media, academia and business.
 
-- When and how do **illiberal attitudes and predispositions** --- such as authoritarianism and racial prejudice --- become politically salient, and with what consequences?  
+My consulting work spans survey research, experimental design and analysis, statistical modelling, machine learning, natural language processing, data visualization.  Solutions I provide include:
 
-- **What drives vote choice** in contemporary democracies?   Which issues or campaign messages prompt vote choices that reinforce or change voters' party loyalties? 
+- Informing strategy: identifying "targets of opportunity" and vulnerabilities in both political and commerical settings, optimal messaging and framing.   
 
-- **Are electoral systems fair** or do they help entrench a particular party or incumbents in office?
+- Close-to-real time tracking of voter or consumer sentiment, combining information from disparate sources to form best-in-class projections of to small geographic areas, offering tactical support for election or advocacy campaigns.
 
-- How to rigorously **measure core concepts of democratic theory and practice**, such as democracy itself, electoral fairness, or attitudinal states (political ideologies, trust in democratic processes and institutions, authoritarianism and racial prejudice)? 
+- Helping clients bring data into their decision-making, advising on hiring, IT, and processes.
 
-- How can long-standing data collection tools such as **mass surveys remain valid and reliable**, as citizens' participation in surveys decline unevenly across demographic and political groups?
-
-I use **Bayesian methods** for computation and inference whenever feasible; see my book, [_Bayesian Analysis for the Social Sciences_](https://www.wiley.com/en-au/Bayesian+Analysis+for+the+Social+Sciences-p-9780470011546).
-
-I appear frequently in Australian and international media discussing developments in US politics and their implications for Australia and other US allies.
 
 Current projects:
 
@@ -86,6 +81,5 @@ Current projects:
 
 - machine-learning methods for classifying and modelling large corpora of political text: identifying persuasive and persistent campaign messages and narratives, misinformation and disinformation, counter-narratives.
 
-- Australian public opinion and policy towards the US, Australia's alliance with the US, foreign policy priorities.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/vitaUSSC.pdf" "newtab" >}}CV{{< /staticref >}}.
