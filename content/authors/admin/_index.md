@@ -16,9 +16,9 @@ first_name: Simon
 highlight_name: true
 
 interests:
-- Elections and public opinion
 - Data science, computational social science
 - Machine learning, NLP
+- Elections and public opinion
 
 last_name: Jackman
 
@@ -62,7 +62,7 @@ title: Simon Jackman
 
 I have three decades of professional experience as a researcher, teacher, mentor, leader and communicator, in political science and data science, in the United States and Australia.  
 
-Born and raised in Australia, I moved to the US for doctoral studies at the University of Rochester and Princeton, before two decades of academic appointments at the University of Chicago and Stanford University.  I returned to Australia in 2015, and was the CEO of the US Studies Centre at the University of Sydney for six years (2016-2022).  I am now an Honorary Professor with the University of Sydney.   
+Born and raised in Australia, I moved to the US for doctoral studies at the University of Rochester and Princeton, before two decades of academic appointments at the University of Chicago and Stanford University.  I returned to Australia in 2015, and was the CEO of the US Studies Centre at the University of Sydney for six years (2016-2022) where I am now an Honorary Professor.  I am an elected fellow of the American Academy of Arts and Sciences, the Academy of the Social Sciences in Australia, and the Society for Political Methodology. 
 
 I am consulting data analyst and data strategist, with high-profile clients in politics, advocacy, media, academia and business.
 
