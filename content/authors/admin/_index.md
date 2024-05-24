@@ -60,13 +60,13 @@ superuser: true
 title: Simon Jackman
 ---
 
-I have three decades of professional experience as a researcher, teacher, mentor, leader and communicator, in political science and data science, in the United States and Australia.  
+For three decades I've been a researcher, teacher, mentor, leader and communicator, in political science and data science, in the United States and Australia.  
 
-Born and raised in Australia, I moved to the US for doctoral studies at the University of Rochester and Princeton University, before two decades of academic appointments at the University of Chicago and Stanford University.  I returned to Australia in 2015 and was the CEO and Professor of Political Science at the US Studies Centre at the University of Sydney for six years (2016-2022) where I am now an Honorary Professor.  I am an elected fellow of the American Academy of Arts and Sciences, the Academy of the Social Sciences in Australia, and the Society for Political Methodology. 
+Born and raised in Australia, I moved to the US for doctoral studies at the University of Rochester and Princeton University, before two decades of academic appointments at the University of Chicago and Stanford University.  I returned to Australia in 2015. I was the CEO and Professor of Political Science at the US Studies Centre at the University of Sydney for six years (2016-2022) where I am now an Honorary Professor.  I am an elected fellow of the American Academy of Arts and Sciences, the Academy of the Social Sciences in Australia, and the Society for Political Methodology. 
 
-I am consulting data analyst and strategist, with clients in politics, advocacy, media, academia and business.
+I am an independent data scientist and strategist, with clients in politics, advocacy, media, academia and business.
 
-My consulting work spans survey research, experimental design and analysis, statistical modelling, machine learning, natural language processing and data visualization.  Solutions I provide include:
+My consulting work draws on my experience and expertise in survey research, experimental design and analysis, statistical modelling, machine learning, natural language processing and data visualization.  Solutions I provide include:
 
 - Informing strategy: identifying targets of opportunity and vulnerabilities in both political and commercial settings, optimal messaging and framing.   
 
