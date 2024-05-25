@@ -66,15 +66,17 @@ Born and raised in Australia, I moved to the US for doctoral studies at the Univ
 
 I am an independent data scientist and strategist, with clients in politics, advocacy, media, academia and business.
 
-My consulting work draws on my experience and expertise in survey research, experimental design and analysis, statistical modelling, machine learning, natural language processing and data visualization.  Solutions I provide include:
+My clients value my expertise in survey research, experimental design and analysis, statistical modelling, machine learning, natural language processing and data visualization.  Solutions I provide include:
 
-- Informing strategy: identifying targets of opportunity and vulnerabilities in both political and commercial settings, optimal messaging and framing.   
+- Informing strategy: identifying targets of opportunity and vulnerabilities in political and commercial settings, optimal messaging and framing.   
 
-- Close to real-time tracking of voter or consumer sentiment, combining information from disparate sources to yield best-in-class projections across small geographic areas; offering tactical, decision-support for election or advocacy campaigns.
+- Close to real-time tracking of voter/consumer/customer sentiment, combining information from disparate sources for best-in-class projections across small geographic areas; offering tactical, decision-support for election, advocacy or marketing campaigns.
 
 - Helping clients bring data into their decision-making; advising on hiring, IT, and data collection, curation and dissemination across the enterprise.
 
 - Bespoke modeling, simulation and forecasting.
+
+- Expert witness reporting and testimony.
 
 - Training and mentoring in data science, machine learning, and Bayesian statistics.
 
@@ -82,7 +84,6 @@ Current projects:
 
 - small-area estimation: inferring public opinion at the level of parliamentary seats/districts, postcodes, local government areas etc, from macro-level data.
 
-- machine-learning methods for classifying and modelling large corpora of political text: identifying persuasive and persistent campaign messages and narratives, misinformation and disinformation, counter-narratives.
-
+- machine-learning methods for classifying and modelling large corpora of text: identifying persuasive and persistent campaign messages and narratives, misinformation and disinformation, counter-narratives.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/vitaUSSC.pdf" "newtab" >}}CV{{< /staticref >}}.
